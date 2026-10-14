@@ -1,5 +1,5 @@
 
-name: Sync Artcraft from Upstream
+name: Sync from Upstream
 
 on:
   schedule:
